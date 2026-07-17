@@ -1,5 +1,36 @@
+##  GitHub:
+
+<div align="center">
+  
+```bash
+              ___                __                  
+ __          /\_ \    __        /\ \                 
+/\_\     __  \//\ \  /\_\    ___\ \ \____     __     
+\/\ \  /'__`\  \ \ \ \/\ \  / __`\ \ '__`\  /'__`\   
+ \ \ \/\ \L\.\_ \_\ \_\ \ \/\ \L\ \ \ \L\ \/\ \L\.\_ 
+ _\ \ \ \__/.\_\/\____\\ \_\ \____/\ \_,__/\ \__/.\_\
+/\ \_\ \/__/\/_/\/____/ \/_/\/___/  \/___/  \/__/\/_/
+\ \____/                                             
+ \/___/                                              
+```
+
+</div>
+  
 ##  About Me:
-🧑‍💻Junior full-stack programmer <br>🤖Intermediate ML and AI engineer <br>📘International college student <br>⭐Avid hackathon participant
+<div align="center">
+
+```bash
+╭───────────────────────────────────────────────────────────╮
+│         === [👤 Loading Profile: jalioba 👤] ===         │
+│                                                           │
+│            🧑‍💻 Junior full-stack programmer 🧑‍💻            │
+│           🤖 Intermediate ML and AI engineer 🤖          │
+│            📘 International college student 📘           │
+│             ⭐ Avid hackathon participant ⭐             │
+╰───────────────────────────────────────────────────────────╯
+```
+
+</div>
 
 
 ##  Socials:
@@ -17,11 +48,11 @@
 ![Express.js](https://img.shields.io/badge/express.js-badge?style=for-the-badge&logo=express&logoColor=%23ffffff&labelColor=%23709600&color=%23709600)
 
 ![Rust](https://img.shields.io/badge/rust-%23834335.svg?style=for-the-badge&logo=rust&logoColor=white) 
+![NASM](https://img.shields.io/badge/NASM-icon?style=for-the-badge&logo=assemblyscript&labelColor=271c63&color=271c63)
 ![Python](https://img.shields.io/badge/python-icon?style=for-the-badge&logo=python&logoColor=%23ffffff&labelColor=%234285f4&color=%234285f4)
 ![Django](https://img.shields.io/badge/django-icon?style=for-the-badge&logo=django&color=%23177a54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-icon?style=for-the-badge&logo=opencv&logoSize=auto&labelColor=%233ecf8e&color=%233ecf8e)
-![Pandas](https://img.shields.io/badge/pandas-icon?style=for-the-badge&logo=pandas&labelColor=271c63&color=271c63)
 
 
 ![SQLite](https://img.shields.io/badge/sqlite-icon?style=for-the-badge&logo=sqlite&labelColor=%23003B57&color=%23003B57)
@@ -35,20 +66,26 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
 
 
+![Arch Linux](https://img.shields.io/badge/arch_linux-icon?style=for-the-badge&logo=archlinux&logoColor=%23ffffff&labelColor=%231793d1&color=%231793d1)
+![Niri](https://img.shields.io/badge/niri-icon?style=for-the-badge&logo=niri&logoColor=%23ffffff&labelColor=%23ffda237&color=%23fda237)
+![DebianWSL](https://img.shields.io/badge/debain_wsl-icon?style=for-the-badge&logo=debian&labelColor=%23f23754&color=%23f23754)
+
 
 ##  GitHub Stats:
-[![jalioba's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jalioba&bg_color=151515&color=e6e6e6&line=e6e6e6&point=444444)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![jalioba's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jalioba&bg_color=151515&hide_border=true&color=e6e6e6&line=e6e6e6&point=444444)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=jalioba&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+<img src="https://github-readme-stats.shion.dev/api?username=jalioba&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/> 
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jalioba&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut&hide=html"/> <br/>
 
-<img src="https://streak-stats.demolab.com/?user=jalioba&theme=dark&hide_border=false" /><br/>
+<img src="https://streak-stats.demolab.com/?user=jalioba&theme=dark&hide_border=true&" /> <br/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jalioba&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
 
 </div>
 
 ##  GitHub Trophies
 <div align="center">
-<img src="https://github-trophies.vercel.app/?username=jalioba&theme=juicyfresh&no-bg=true&no-frame=true&row=1&column=" /><br/>
+<img src="https://github-trophies.vercel.app/?username=jalioba&theme=gitdimmed&no-bg=true&no-frame=true&row=1&column=" /><br/>
 </div>
