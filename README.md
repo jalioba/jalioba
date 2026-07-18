@@ -21,12 +21,13 @@
 
 ```bash
 ╭───────────────────────────────────────────────────────────╮
-│         === [👤 Loading Profile: jalioba 👤] ===         │
+│           === [👤 Self-taught developer 👤] ===          │
 │                                                           │
 │            🧑‍💻 Junior full-stack programmer 🧑‍💻            │
 │           🤖 Intermediate ML and AI engineer 🤖          │
 │            📘 International college student 📘           │
 │             ⭐ Avid hackathon participant ⭐             │
+│                 🧑🏻‍🎓Learning Rust & NASM🧑🏻‍🎓                 │
 ╰───────────────────────────────────────────────────────────╯
 ```
 
