@@ -76,14 +76,18 @@
 [![jalioba's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jalioba&bg_color=151515&hide_border=true&color=e6e6e6&line=e6e6e6&point=444444)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=jalioba&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/> 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jalioba&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut&hide=html"/> <br/>
-
-<img src="https://streak-stats.demolab.com/?user=jalioba&theme=dark&hide_border=true&" /> <br/>
-
-
-
+  <table>
+    <tr>
+      <td valign="top" align="center">
+        <img src="https://github-readme-stats.shion.dev/api?username=jalioba&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+        <br/><br/>
+        <img src="https://streak-stats.demolab.com/?user=jalioba&theme=dark&hide_border=true&" />
+      </td>
+      <td valign="middle" align="center">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jalioba&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=pie&" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ##  GitHub Trophies
