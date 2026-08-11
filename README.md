@@ -67,7 +67,7 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
 
 
-![Arch Linux](https://img.shields.io/badge/arch_linux-icon?style=for-the-badge&logo=archlinux&logoColor=%23ffffff&labelColor=%231793d1&color=%231793d1)
+![NixOS](https://img.shields.io/badge/nixos-icon?style=for-the-badge&logo=nixos&logoColor=white&labelColor=%235277C3&color=%235277C3)
 ![Niri](https://img.shields.io/badge/niri-icon?style=for-the-badge&logo=niri&logoColor=%23ffffff&labelColor=%23ffda237&color=%23fda237)
 ![DebianWSL](https://img.shields.io/badge/debain_wsl-icon?style=for-the-badge&logo=debian&labelColor=%23f23754&color=%23f23754)
 
