@@ -26,7 +26,7 @@
 │            🧑‍💻 Junior full-stack programmer 🧑‍💻            │
 │            📘 International college student 📘           │
 │             ⭐ Avid hackathon participant ⭐             │
-│                 🧑🏻‍🎓Learning Rust & NASM🧑🏻‍🎓                 │
+│                  🧑🏻‍🎓Learning Rust & Go🧑🏻‍🎓                  │
 ╰───────────────────────────────────────────────────────────╯
 ```
 
@@ -48,7 +48,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-badge?style=for-the-badge&logo=express&logoColor=%23ffffff&labelColor=%23709600&color=%23709600)
 
 ![Rust](https://img.shields.io/badge/rust-%23834335.svg?style=for-the-badge&logo=rust&logoColor=white) 
-![NASM](https://img.shields.io/badge/NASM-icon?style=for-the-badge&logo=assemblyscript&labelColor=271c63&color=271c63)
+![GO](https://img.shields.io/badge/go-icon?style=for-the-badge&logo=go&logoColor=white&labelColor=4ea8cc&color=4ea8cc)
 ![Python](https://img.shields.io/badge/python-icon?style=for-the-badge&logo=python&logoColor=%23ffffff&labelColor=%234285f4&color=%234285f4)
 ![Django](https://img.shields.io/badge/django-icon?style=for-the-badge&logo=django&color=%23177a54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
