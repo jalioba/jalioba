@@ -65,12 +65,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
 
-
-![NixOS](https://img.shields.io/badge/nixos-icon?style=for-the-badge&logo=nixos&logoColor=white&labelColor=%235277C3&color=%235277C3)
-![Niri](https://img.shields.io/badge/niri-icon?style=for-the-badge&logo=niri&logoColor=%23ffffff&labelColor=%23ffda237&color=%23fda237)
-![DebianWSL](https://img.shields.io/badge/debain_wsl-icon?style=for-the-badge&logo=debian&labelColor=%23f23754&color=%23f23754)
-
-
 ##  GitHub Stats:
 [![jalioba's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jalioba&bg_color=151515&hide_border=true&color=e6e6e6&line=e6e6e6&point=444444)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
