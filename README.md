@@ -50,11 +50,8 @@
 ![GO](https://img.shields.io/badge/go-icon?style=for-the-badge&logo=go&logoColor=white&labelColor=4ea8cc&color=4ea8cc)
 ![Python](https://img.shields.io/badge/python-icon?style=for-the-badge&logo=python&logoColor=%23ffffff&labelColor=%234285f4&color=%234285f4)
 ![Django](https://img.shields.io/badge/django-icon?style=for-the-badge&logo=django&color=%23177a54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/opencv-icon?style=for-the-badge&logo=opencv&logoSize=auto&labelColor=%233ecf8e&color=%233ecf8e)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-
-![SQLite](https://img.shields.io/badge/sqlite-icon?style=for-the-badge&logo=sqlite&labelColor=%23003B57&color=%23003B57)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-icon?style=for-the-badge&logo=postgresql&logoColor=%23ffffff&logoSize=50&labelColor=%234169E1&color=%234169E1)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 ![Railway](https://img.shields.io/badge/railway-icon?style=for-the-badge&logo=railway&logoSize=auto&labelColor=%232c2842&color=%232c2842)
