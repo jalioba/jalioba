@@ -62,8 +62,6 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
 
 ##  GitHub Stats:
-[![jalioba's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jalioba&bg_color=151515&hide_border=true&color=e6e6e6&line=e6e6e6&point=444444)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
   <table>
     <tr>
@@ -75,7 +73,7 @@
         <img src="https://leetcard.jacoblin.cool/jalioba?theme=light&font=Abel&colors=%23151515%2C%20%23f5f5f5%2C%20%23f5f5f5&border=0px" />
       </td>
       <td valign="middle" align="center">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jalioba&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=pie&langs_count=10&hide=css" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jalioba&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=pie&langs_count=10&hide=" />
       </td>
     </tr>
   </table>
