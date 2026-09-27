@@ -66,9 +66,9 @@
   <table>
     <tr>
       <td valign="top" align="center">
-        <img src="https://github-readme-stats.shion.dev/api?username=jalioba&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+        <img src="https://github-readme-stats.shion.dev/api?username=jalioba&theme=dark&hide_border=true&include_all_commits=false&count_private=true" />
         <br/><br/>
-        <img src="https://streak-stats.demolab.com/?user=jalioba&theme=dark&hide_border=true&" />
+        <img src="https://streak-stats.demolab.com/?user=jalioba&theme=dark&hide_border=true&count_private=true" />
         <br/><br/>
         <img src="https://leetcard.jacoblin.cool/jalioba?theme=light&font=Abel&colors=%23151515%2C%20%23f5f5f5%2C%20%23f5f5f5&border=0px" />
       </td>
