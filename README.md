@@ -73,7 +73,7 @@
         <img src="https://leetcard.jacoblin.cool/jalioba?theme=light&font=Abel&colors=%23151515%2C%20%23f5f5f5%2C%20%23f5f5f5&border=0px" />
       </td>
       <td valign="middle" align="center">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jalioba&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=pie&langs_count=10&hide=" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jalioba&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=pie&langs_count=10&hide=html" />
       </td>
     </tr>
   </table>
