@@ -21,23 +21,16 @@
 
 ```bash
 ╭───────────────────────────────────────────────────────────╮
-│           === [👤 Self-taught developer 👤] ===          │
+│           === [👤 Self-taught developer 👤] ===           │
 │                                                           │
-│            🧑‍💻 Junior full-stack programmer 🧑‍💻            │
-│            📘 International college student 📘           │
-│             ⭐ Avid hackathon participant ⭐             │
-│                  🧑🏻‍🎓Learning Rust & Go🧑🏻‍🎓                  │
+│            🧑‍💻 Junior full-stack programmer 🧑‍💻             │
+│            📘 International college student 📘            │
+│             ⭐ Avid hackathon participant ⭐              │
+│                  🧑🏻‍🎓Learning Kuber & Go🧑🏻‍🎓                  │
 ╰───────────────────────────────────────────────────────────╯
 ```
 
 </div>
-
-
-##  Socials:
-[![Steam](https://img.shields.io/badge/Steam-app?style=flat&logo=Steam&labelColor=rgb(8%2C%2041%2C%2072)&color=rgb(8%2C%2041%2C%2072))](https://steamcommunity.com/id/jalioba) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1129308703628206150/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:main@kilcdevs.net) 
-[![Links](https://img.shields.io/badge/MyLinks-bio?style=flat&logo=biolink&logoColor=white&logoSize=auto&labelColor=rgb(184%2C%20149%2C%20247)&color=rgb(184%2C%20149%2C%20247)&cacheSeconds=3600&link=https%3A%2F%2Flnk.bio%2Fjalioba)](https://lnk.bio/jalioba)
 
 
 ##  Tech Stack:
@@ -46,20 +39,30 @@
 ![React](https://img.shields.io/badge/react-badge?style=for-the-badge&logo=react&logoColor=%23ffffff&labelColor=%2354bdda&color=%2354bdda)
 ![Vue](https://img.shields.io/badge/vue-icon?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=%234FC08D&color=%234FC08D)
 
+
 ![Rust](https://img.shields.io/badge/rust-%23834335.svg?style=for-the-badge&logo=rust&logoColor=white) 
 ![GO](https://img.shields.io/badge/go-icon?style=for-the-badge&logo=go&logoColor=white&labelColor=4ea8cc&color=4ea8cc)
 ![Python](https://img.shields.io/badge/python-icon?style=for-the-badge&logo=python&logoColor=%23ffffff&labelColor=%234285f4&color=%234285f4)
-![Django](https://img.shields.io/badge/django-icon?style=for-the-badge&logo=django&color=%23177a54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-icon?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=%23009688&color=%23009688)
+![C#](https://img.shields.io/badge/C%23-icon?style=for-the-badge&logo=dotnet&logoColor=white&logoSize=30&labelColor=%23512BD4&color=%23512BD4)
+
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-icon?style=for-the-badge&logo=postgresql&logoColor=%23ffffff&logoSize=50&labelColor=%234169E1&color=%234169E1)
+![MySQL](https://img.shields.io/badge/MySQL-icon?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=%234479A1&color=%234479A1)
+![Redis](https://img.shields.io/badge/Redis-icon?style=for-the-badge&logo=redis&logoColor=white&labelColor=%23FF4438&color=%23FF4438)
+
+
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![Railway](https://img.shields.io/badge/railway-icon?style=for-the-badge&logo=railway&logoSize=auto&labelColor=%232c2842&color=%232c2842)
+![Ngnix](https://img.shields.io/badge/Nginx-icon?style=for-the-badge&logo=nginx&logoColor=white&labelColor=%23009639&color=%23009639)
 ![Docker](https://img.shields.io/badge/docker-icon?style=for-the-badge&logo=docker&logoColor=%23ffffff&labelColor=%232496ED&color=%232496ED)
+![PodMan](https://img.shields.io/badge/PodMan-icon?style=for-the-badge&logo=podman&logoColor=white&logoSize=500&labelColor=%23892CA0&color=%23892CA0)
+
 
 ![Figma](https://img.shields.io/badge/figma-%239e3569.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
+![VSCode](https://img.shields.io/badge/vscode-icon?style=for-the-badge&logo=vencord&logoColor=white&labelColor=%233E82E5&color=%233E82E5)
+![Goland](https://img.shields.io/badge/goland-icon?style=for-the-badge&logo=goland&labelColor=%2313ADC7&color=%2313ADC7)
+![Datagrip](https://img.shields.io/badge/datagrip-icon?style=for-the-badge&logo=datagrip&labelColor=%23FF0069&color=%23FF0069)
+
 
 ##  GitHub Stats:
 <div align="center">
